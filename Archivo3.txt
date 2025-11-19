@@ -1,3 +1,4 @@
 Que bien necesitaba un tercer archivo. Y ahora lo edito desde en GitHub.
 
-Estos scambio se hacen dede la rama main
+Esta modificación se hace desde la rama pruebas y main
+
